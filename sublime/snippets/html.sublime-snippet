@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+	<title>${0:title}</title>
+</head>
+<body>
+	${1:body}
+</body>
+</html>
+]]></content>
+	<tabTrigger>html</tabTrigger>
+</snippet>
